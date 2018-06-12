@@ -7,6 +7,7 @@ public class Test2 {
 		System.out.println("버전추가!!!!");
 		
 		System.out.println("test1브랜치 시작!!");
+		System.out.println("test1브랜치 끝!!");
 
 	}
 
